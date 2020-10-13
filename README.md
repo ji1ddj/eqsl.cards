@@ -4,6 +4,6 @@ eqsl.cards-apiは電子QSL(eQSL)サービスのウェブAPIを提供すること
 
 ## 関連PJ
 
-- [eqsl.cards-web](https://github.com/ji1ddj/eqsl.cards-web): eQSLのweb UI
-- [eqsl.cards-editor](https://github.com/ji1ddj/eqsl.cards-editor): eQSLエディタ
-- [eqsl.cards-datastorage](https://github.com/ji1ddj/eqsl.cards-datastorate): eQSLのデータストレージサービス
+- [eqsl.cards-web](https://github.com/ji1ddj/eqsl.cards-web): eQSLサービスのweb UI
+- [eqsl.cards-editor](https://github.com/ji1ddj/eqsl.cards-editor): SVGベースのeQSLエディタ
+- [eqsl.cards-datastore](https://github.com/ji1ddj/eqsl.cards-datastore): 交信ログのデータストアサービス
